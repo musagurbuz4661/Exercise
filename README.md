@@ -16,7 +16,7 @@
             <td>Tour-Places</td>
             <td><a href="https://github.com/musagurbuz4661/languages-cards">Repo details</a></td>
             <td><a href="https://musagurbuz4661.github.io/languages-cards/">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="https://github.com/musagurbuz4661/languages-cards/blob/main/language-cards.gif" alt="html" height=130></td> 
         </tr>
 </tbody>
 </table>
