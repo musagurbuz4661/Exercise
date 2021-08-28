@@ -25,7 +25,7 @@
             <td><img style="width:500px;" src="https://github.com/musagurbuz4661/React/blob/main/projects/tour-places/tour-project.gif" alt="html" height=130></td> 
         </tr>
         <tr>
-            <td>Breaking Bad api</td>
+            <td><b>Breaking Bad api</b></td>
             <td><a href="https://github.com/musagurbuz4661/breakingbad-react-app/tree/main">Repo details</a></td>
             <td><a href="https://musagurbuz4661.github.io/breakingbad-react-app/">Click here to see the project</a></td>
             
