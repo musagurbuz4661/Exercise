@@ -13,13 +13,13 @@
     </thead>
     <tbody> 
         <tr>
-            <td>Languages-cards</td>
+            <td><b>Languages-cards</b></td>
             <td><a href="https://github.com/musagurbuz4661/languages-cards/tree/main">Repo details</a></td>
             <td><a href="https://musagurbuz4661.github.io/languages-cards/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/musagurbuz4661/languages-cards/blob/main/language-cards.gif" alt="html" height=130></td> 
         </tr>
          <tr>
-            <td>Tour-Places</td>
+            <td><b>Tour-Places</b></td>
             <td><a href="https://github.com/musagurbuz4661/React/tree/main/projects/tour-places">Repo details</a></td>
             <td><a href="https://musagurbuz4661.github.io/tour-places/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/musagurbuz4661/React/blob/main/projects/tour-places/tour-project.gif" alt="html" height=130></td> 
@@ -31,7 +31,7 @@
             <td><a href="https://musagurbuz4661.github.io/breakingbad-react-app/">Click here to see the project</a></td>
         </tr>
         <tr>
-            <td>Random-User-app</td>
+            <td><b>Random-User-app</b></td>
             <td><a href="https://github.com/musagurbuz4661/Random-User-app/tree/main">Repo details</a></td>
             <td><a href="https://musagurbuz4661.github.io/Random-User-app/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/musagurbuz4661/Random-User-app/blob/main/random-user-app.gif" alt="html" height=130></td> 
